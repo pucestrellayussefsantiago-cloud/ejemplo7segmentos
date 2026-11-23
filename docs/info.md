@@ -17,4 +17,4 @@ this is a bcd 7segments
 
 ## External hardware
 
-your need a display the seven segment
+your need a display the 7 segment for you use
