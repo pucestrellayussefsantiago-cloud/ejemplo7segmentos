@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-this is a bcd 7segments
+this is a bcd 7segments for amateurs and parctics
 
 ## How to test
 
-4 inpouts and 7 ooputs
+4 inpouts and 7 ooputs led
 
 ## External hardware
 
-your need a display the 7 segment for you use
+your need a display the 7 segment for you use in yours practies
